@@ -3,6 +3,7 @@ just for learning
 
 Hi Humans,
 Haowen here. I like python, data science and machine leanring.
+
 EDUCATION                                                            
 National University of Singapore, Singapore Jan. 2013 – Jan.2017
 
